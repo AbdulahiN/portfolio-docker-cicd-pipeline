@@ -296,14 +296,42 @@ form .btn2{
 nav .fas{
     display: none;
 }
-
+@media only screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) {
+    /* iPhone X, XS, 11 Pro */
+    #header {
+      background-size: 375px 812px;
+    }
+  }
+  
+  @media only screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) {
+    /* iPhone XR, 11 */
+    #header {
+      background-size: 414px 896px;
+    }
+  }
+  
+  @media only screen and (device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) {
+    /* iPhone 8 */
+    #header {
+      background-size: 375px 667px;
+    }
+  }
+  
+  /* Add additional media queries for other iPhone models if needed */
+  
+  @media only screen and (max-width: 600px) {
+    /* Mobile devices other than iPhones */
+  }
+  
 @media only screen and (max-width: 600px) {
     #header {
       background-image: url(images/phone-background.png); /* Adjust the path to your image */
       background-size: cover;
       background-position: center;
       background-attachment: fixed;
+      
     }  
+
     .header-text{
         margin-top: 100%;
         font-size: 16px;
