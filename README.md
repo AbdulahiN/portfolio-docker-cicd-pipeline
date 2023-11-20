@@ -1,8 +1,8 @@
 Portfolio Website Documentation
 Introduction
-This document serves as a reflection and guide on how I built my portfolio website. Hosted on AWS EC2, the site is a testament to my journey in web development and cloud technologies. Utilising tools like AWS, Docker, Git, Terraform, HTML/CSS, and GitHub Actions, I've created a platform that not only displays my skills but also embodies my learning curve in these technologies.
+This document serves as a reflection and guide on how I built my portfolio website. Hosted on AWS EC2, the site is a testament to my journey in web development and cloud technologies. Utilizing tools like AWS, Docker, Git, Terraform, HTML/CSS, and GitHub Actions, I've created a platform that not only displays my skills but also embodies my learning curve in these technologies.
 
-Dockerization
+Dockerisation
 How I Dockerised This:
 Creating a Dockerfile: Starting with the Dockerfile, I carefully scripted commands to set up the environment. This file became the cornerstone of my Docker setup, ensuring that every component my website needed was accounted for and correctly configured.
 Building the Image: I then proceeded to build the Docker image from my Dockerfile. This process was like putting theory into practice – turning my written instructions into a tangible, functional environment where my website could thrive.
