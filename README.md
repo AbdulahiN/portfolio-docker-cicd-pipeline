@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This document serves as a reflection and guide on how I built my portfolio website. Hosted on AWS EC2, the site is a testament to my journey in web development and cloud technologies. Utilizing tools like AWS, Docker, Git, Terraform, HTML/CSS, and GitHub Actions, I've created a platform that not only displays my skills but also embodies my learning curve in these technologies.
+This document serves as a reflection and guide on how I built my portfolio website. Hosted on AWS EC2, the site is a testament to my journey in web development and cloud technologies. Utilising tools like AWS, Docker, Git, Terraform, HTML/CSS, and GitHub Actions, I've created a platform that not only displays my skills but also embodies my learning curve in these technologies.
 
 ## Dockerisation
 
