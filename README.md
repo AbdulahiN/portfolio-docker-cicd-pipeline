@@ -16,7 +16,7 @@ Starting with the Dockerfile, I carefully scripted commands to set up the enviro
 
 #### Building the Image
 
-I then proceeded to build the Docker image from my Dockerfile. This process was like putting theory into practice – turning my written instructions into a tangible, functional environment where my website could thrive.
+I then proceeded to build the Docker image from my Dockerfile. This process was like putting theory into practice, turning my written instructions into a tangible, functional environment where my website could thrive.
 
 #### Benefits of Docker
 
