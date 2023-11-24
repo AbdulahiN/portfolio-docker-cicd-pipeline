@@ -38,8 +38,10 @@ The next step was setting up Continuous Deployment. This meant that successful c
 
 Configuring the GitHub Actions workflow required thoughtful planning. I set up triggers so that any push or pull request to the main branch would initiate the CI/CD process. This setup ensured a seamless and automated flow from code commit to deployment.
 
-#### Terraform
+## Terraform
 
 [Click Here for Terraform Documentation & Repository ](https://github.com/AbdulahiN/portfolio-terraform-infrastructure)
+
+## AWS Infrastructure Diagram
 
 ![image](https://github.com/AbdulahiN/Portfolio-Website-/assets/127696330/78b4e7dd-095c-4908-a98f-9627dfe67c25)
