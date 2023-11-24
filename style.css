@@ -222,6 +222,21 @@ nav ul li a:hover::after{
 .btn:hover{
     background: #ff004f;
 }
+/* Circle Link Style */
+.circle-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: #ff004f; /* Red color */
+    text-decoration: none;
+    font-size: 24px; /* Size of the arrow symbol */
+    background: #fff;
+    width: 60px; /* Circle width */
+    height: 60px; /* Circle height */
+    border-radius: 50%;
+    border: none; /* Remove border if any */
+    cursor: pointer; /* Cursor to pointer to indicate it's a link */
+}
 
 /* ---------contact-------- */
 .contact-left{
