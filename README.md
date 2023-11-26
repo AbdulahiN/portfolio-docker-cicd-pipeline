@@ -1,4 +1,4 @@
-
+[Live website](http://abdulahin.com/)
 
 # Portfolio Website Documentation
 
@@ -40,16 +40,8 @@ Configuring the GitHub Actions workflow required thoughtful planning. I set up t
 
 ## Terraform
 
-### Infrastructure as Code:
+[Click Here for Terraform Documentation & Repository ](https://github.com/AbdulahiN/portfolio-terraform-infrastructure)
 
-#### Setting Up AWS with Terraform
-
-Using Terraform for setting up AWS infrastructure was both challenging and rewarding. It allowed me to define my infrastructure in code form, making it easy to track. I used Terraform scripts to create an EC2 instance, which serves as the backbone of my website hosting.
-
-#### Features of the AWS Setup
-
-In AWS, I meticulously configured an auto-scaling group to ensure that the website could handle varying loads by automatically adjusting resources. I also utilised two availability zones for increased reliability. The load balancer was key in managing incoming traffic efficiently, while the public subnets and an internet gateway were crucial for connecting my website to the wider internet. This robust setup provided a reliable and scalable foundation for my website.
-
-[Live website](http://abdulahin.com/)
+## AWS Infrastructure Diagram
 
 ![image](https://github.com/AbdulahiN/Portfolio-Website-/assets/127696330/78b4e7dd-095c-4908-a98f-9627dfe67c25)
